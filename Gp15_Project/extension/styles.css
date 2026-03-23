@@ -1,0 +1,218 @@
+/* ========= GLOBAL ========= */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 360px;
+  margin: 0;
+  padding: 16px;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: linear-gradient(135deg, #0f172a, #111827);
+  color: #e5e7eb;
+  overflow-y: auto;
+}
+
+/* ========= HEADER ========= */
+header,
+.header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  filter: drop-shadow(0 0 6px #3b82f6);
+}
+
+header h2,
+.title {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  background: linear-gradient(90deg, #3b82f6, #06b6d4);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color:transparent
+}
+
+.subtitle {
+  font-size: 9px;
+  color: #9ca3af;
+  margin-left: auto;
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  color: #38bdf8;
+  text-shadow: 0 0 6px rgba(56, 189, 248, 0.7);
+
+
+
+    letter-spacing: 1px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+
+  background: linear-gradient(90deg, #3b82f6, #06b6d4);
+  background-clip:text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color:transparent;
+}
+
+/* ========= SECTIONS ========= */
+section {
+  margin-top: 18px;
+}
+
+section h3 {
+  
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  color: #38bdf8;
+  text-shadow: 0 0 6px rgba(56, 189, 248, 0.7);
+
+
+
+    letter-spacing: 1px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+
+  background: linear-gradient(90deg, #3b82f6, #06b6d4);
+  background-clip:text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color:transparent;
+
+
+}
+
+/* ========= CARD LIST ========= */
+.card-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* ========= CARDS ========= */
+.card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 14px;
+  padding: 12px;
+  font-size: 13px;
+  transition: all 0.25s ease;
+
+  /* Prevent content overflow */
+  max-height: 200px; /* Adjust the height as needed */
+  overflow: hidden;  /* Hide excess content */
+  text-overflow: ellipsis;  /* Add '...' for truncated text */
+  word-wrap: break-word;    /* Ensure text wraps */
+  word-break: break-word;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  border-color: #3b82f6;
+  box-shadow: 0 0 14px rgba(59, 130, 246, 0.3);
+}
+
+/* Optional: For larger content, you can make the content scrollable */
+.card.scrollable {
+  overflow-y: auto;
+  max-height: 220px; /* Allow more height if needed */
+}
+
+
+/* ========= TASK STYLES ========= */
+.task-title {
+  font-weight: 600;
+  font-size: 14px;
+  color: #f3f4f6;
+}
+
+.task-meta {
+  font-size: 11px;
+  color: #9ca3af;
+  margin-top: 4px;
+}
+
+.task-actions {
+  margin-top: 8px;
+}
+
+/* ========= BUTTON ========= */
+button {
+  font-size: 11px;
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background: linear-gradient(90deg, #3b82f6, #06b6d4);
+  color: white;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 12px rgba(59, 130, 246, 0.6);
+}
+
+button:active {
+  transform: scale(0.97);
+}
+
+
+.card {
+  animation: fadeInUp 0.4s ease forwards;
+  opacity: 0;
+}
+
+@keyframes fadeInUp {
+  from {
+    transform: translateY(8px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.summary-text {
+  line-height: 1.4;
+  word-break: break-word;
+}
+
+
+.summary-meta {
+  font-size: 10px;
+  color: #9ca3af;
+  margin-top: 6px;
+  opacity: 0.8;
+}
+
+
+
+.refresh-btn {
+  margin-left: auto;
+  font-size: 10px;
+  padding: 5px 8px;
+}
+
+
+.card-list {
+  margin-bottom: 8px;
+}

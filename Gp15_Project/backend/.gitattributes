@@ -1,0 +1,2 @@
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+app/ml/t5_summarizer/model.safetensors filter=lfs diff=lfs merge=lfs -text

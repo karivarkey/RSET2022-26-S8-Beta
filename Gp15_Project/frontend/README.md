@@ -1,0 +1,1 @@
+This repo contains the frontend code of my final year project NEMO- no emails missed,organised. The frontend consist of 2 clients - a chrome extension and an electron desktop sidebar. This repo exclusively contains the code related to the electron desktop sidebar. Currently in polishing phase

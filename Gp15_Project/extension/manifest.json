@@ -1,0 +1,25 @@
+
+
+{
+  "manifest_version": 3,
+  "name": "NEMO",
+  "version": "1.0",
+  
+  "description": "Corporate Email Assistant",
+   "icons": {
+    "16": "assets/icon.png",
+    "32": "assets/icon.png",
+    "48": "assets/icon.png",
+    "128": "assets/icon.png"
+  },
+  "permissions": ["sidePanel"],
+  "host_permissions": ["http://127.0.0.1:8000/*"],
+
+
+ "action": {
+    "default_popup": "popup.html"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  }
+}
