@@ -44,10 +44,10 @@ nest_asyncio.apply()
 # ─── CONFIGURATION ────────────────────────────────────────────────────────────
 DATASET_PATH = '/content/drive/MyDrive/CHBMIT_1'
 MODEL_DIR    = '/content/drive/MyDrive/Models_TCN/'
-NGROK_TOKEN  = "2uKgyDMTfyxHD8sXql61XjOBv1s_4oBUtwxv9dzNjeS99qhLa"
+NGROK_TOKEN  = "API_TOKEN"
 
 # Free key from https://console.groq.com (30 seconds to sign up)
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "TOKEN"
 
 # RAG config — no HuggingFace token needed, model downloads automatically
 CHROMA_DIR   = "/content/eeg_rag_db"
