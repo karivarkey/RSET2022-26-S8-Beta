@@ -22,7 +22,7 @@ This repository contains all the source code and final reports for the final yea
 
 ### Group 3
 
-*Project:* [XNFRec: An Generalized Explainable Recommender using Knowledge Graph and Neutrosophic Fuzzy Hypergraph](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%202%20Corporate%20Device%20Control%20Suite)
+*Project:* [XNFRec: An Generalized Explainable Recommender using Knowledge Graph and Neutrosophic Fuzzy Hypergraph](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%203%20-%20XNFRec)
 *Members:*
 
 - Johaan P Varghese(U2203118)
