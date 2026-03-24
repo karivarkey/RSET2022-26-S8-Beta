@@ -41,6 +41,16 @@ This repository contains all the source code and final reports for the final yea
 
 **Guide:** Dr. Amitha Mathew
 
+### Group 8
+**Project:** [Ransomware Detection System](https://github.com/gjh70/RSET2022-26-S8-Beta/tree/main/Groop%208%20Ransomware%20Detection%20System)
+**Members:**
+- Dev Sebastian Joseph (U2203077)
+- Golda John (U2203102)
+- Joel John Thumpayil (U2203116)
+- Joes Jacob Paul (U2203117)
+
+**Guide:** Dr. Jomina John
+
 ---
 ### Group 10
 **Project:** [Silent Speech Recognition for the Voiceless](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%2010%20Silent%20Speech%20Recognition)
@@ -74,6 +84,7 @@ This repository contains all the source code and final reports for the final yea
 - Mathew Dominic (U2203138)
 
 **Guide:** Dr. Jomina John
+
 
 
 > **Note for other groups:** 
