@@ -1,0 +1,711 @@
+learner_id,course_id,learner_rating,short_description
+30176240,934526,5.0,Academic background
+429529,934526,4.5,Academic background
+197123,934526,5.0,Academic background
+6855574,934526,4.0,Academic background
+33781322,934526,4.0,Academic background
+30002870,934526,5.0,Academic background
+29026478,934526,4.0,Academic background
+31526934,934526,2.0,Academic background
+26681746,682514,4.0,Human genetic exploration
+12779122,682514,4.0,Human genetic exploration
+33180992,682514,4.0,Human genetic exploration
+17679688,682514,1.0,Human genetic exploration
+22791360,682514,5.0,Human genetic exploration
+22480242,682514,5.0,Human genetic exploration
+4811986,682514,5.0,Human genetic exploration
+1174402,682514,5.0,Human genetic exploration
+15850930,682514,5.0,Human genetic exploration
+7410732,682514,5.0,Human genetic exploration
+28222262,682514,5.0,Human genetic exploration
+2931186,851362,4.0,Social linguistics
+2360594,851362,3.0,Social linguistics
+20208326,851362,5.0,Social linguistics
+29163876,851362,5.0,Social linguistics
+29402356,851362,3.5,Social linguistics
+28896830,851362,5.0,Social linguistics
+20518564,851362,3.5,Social linguistics
+23502406,851362,4.5,Social linguistics
+19422544,851362,5.0,Social linguistics
+22727352,851362,5.0,Social linguistics
+29034380,851362,4.0,Social linguistics
+13710764,851362,4.5,Social linguistics
+8082138,851362,5.0,Social linguistics
+30532252,851362,5.0,Social linguistics
+17543766,851362,5.0,Social linguistics
+15364336,851362,5.0,Social linguistics
+22791360,851362,5.0,Social linguistics
+20893462,851362,4.5,Social linguistics
+25197242,851362,5.0,Social linguistics
+21633770,851362,5.0,Social linguistics
+26685038,851362,4.5,Social linguistics
+23562482,851362,5.0,Social linguistics
+24211430,851362,4.5,Social linguistics
+23054104,851362,5.0,Social linguistics
+4603046,851362,4.5,Social linguistics
+592629,851362,5.0,Social linguistics
+10469350,851362,5.0,Social linguistics
+2218324,851362,4.0,Social linguistics
+21374982,851362,5.0,Social linguistics
+234864,851362,5.0,Social linguistics
+27823922,851362,5.0,Social linguistics
+31303254,851362,4.0,Social linguistics
+28439878,851362,4.5,Social linguistics
+35634420,851362,4.0,Social linguistics
+15198788,851362,4.5,Social linguistics
+7394868,851362,5.0,Social linguistics
+25889788,851362,5.0,Social linguistics
+24340004,851362,4.5,Social linguistics
+23753770,851362,5.0,Social linguistics
+34484350,851362,4.0,Social linguistics
+37531354,851362,5.0,Social linguistics
+13260694,851362,5.0,Social linguistics
+28903750,851362,4.5,Social linguistics
+146737,851362,5.0,Social linguistics
+7717046,851362,5.0,Social linguistics
+10936176,851362,5.0,Social linguistics
+14292144,851362,5.0,Social linguistics
+24267458,851362,5.0,Social linguistics
+956952,851362,5.0,Social linguistics
+16328230,851362,3.5,Social linguistics
+12006890,851362,5.0,Social linguistics
+12811402,851362,5.0,Social linguistics
+16683156,851362,5.0,Social linguistics
+6472082,851362,5.0,Social linguistics
+21668020,680886,4.0,Accounting principles
+20208326,680886,5.0,Accounting principles
+23795486,680886,5.0,Accounting principles
+22030234,680886,4.5,Accounting principles
+21282282,680886,5.0,Accounting principles
+28366134,680886,5.0,Accounting principles
+19568226,680886,4.0,Accounting principles
+29163876,680886,5.0,Accounting principles
+32386848,680886,3.5,Accounting principles
+29402356,680886,3.5,Accounting principles
+4237898,680886,3.0,Accounting principles
+6051394,680886,5.0,Accounting principles
+29739042,680886,5.0,Accounting principles
+18491990,680886,4.5,Accounting principles
+5750372,680886,5.0,Accounting principles
+3185502,680886,4.5,Accounting principles
+21109476,680886,5.0,Accounting principles
+745419,680886,4.0,Accounting principles
+9681644,680886,5.0,Accounting principles
+624016,680886,5.0,Accounting principles
+13569792,680886,4.0,Accounting principles
+9537646,680886,5.0,Accounting principles
+21940238,680886,4.0,Accounting principles
+15364336,680886,5.0,Accounting principles
+596054,680886,4.5,Accounting principles
+18536534,680886,5.0,Accounting principles
+17953942,680886,5.0,Accounting principles
+19272696,680886,5.0,Accounting principles
+19393202,680886,5.0,Accounting principles
+2123524,680886,4.5,Accounting principles
+15460126,680886,4.0,Accounting principles
+10117398,680886,5.0,Accounting principles
+28895536,680886,4.5,Accounting principles
+21858440,680886,4.5,Accounting principles
+795379,680886,4.0,Accounting principles
+920676,680886,5.0,Accounting principles
+18745192,680886,4.0,Accounting principles
+11155042,680886,5.0,Accounting principles
+34597138,680886,5.0,Accounting principles
+33463342,680886,5.0,Accounting principles
+28810868,680886,5.0,Accounting principles
+21943160,680886,4.0,Accounting principles
+21753792,680886,3.5,Accounting principles
+10068830,680886,3.0,Accounting principles
+7861756,680886,4.0,Accounting principles
+30212868,680886,4.0,Accounting principles
+35749448,680886,4.0,Accounting principles
+845843,680886,5.0,Accounting principles
+33991602,680886,5.0,Accounting principles
+10941784,680886,4.5,Accounting principles
+27176200,680886,4.0,Accounting principles
+34978306,680886,4.0,Accounting principles
+799304,680886,5.0,Accounting principles
+33143676,680886,5.0,Accounting principles
+9218066,680886,5.0,Accounting principles
+27172292,680886,4.0,Accounting principles
+9221472,680886,5.0,Accounting principles
+25196950,680886,4.0,Accounting principles
+18952718,680886,5.0,Accounting principles
+902110,680886,3.5,Accounting principles
+32408534,680886,4.5,Accounting principles
+8248362,680886,5.0,Accounting principles
+11073436,680886,4.5,Accounting principles
+25833782,680886,5.0,Accounting principles
+3839682,680886,5.0,Accounting principles
+20193528,680886,4.0,Accounting principles
+16308332,680886,5.0,Accounting principles
+6731676,680886,4.0,Accounting principles
+24423368,680886,4.0,Accounting principles
+28038720,680886,5.0,Accounting principles
+16094080,680886,5.0,Accounting principles
+19255570,680886,4.0,Accounting principles
+16843042,680886,4.0,Accounting principles
+20702042,680886,5.0,Accounting principles
+19237726,680886,4.0,Accounting principles
+26002996,680886,5.0,Accounting principles
+31311404,680886,5.0,Accounting principles
+26243324,680886,5.0,Accounting principles
+28573252,680886,4.5,Accounting principles
+26037582,680886,4.0,Accounting principles
+13434850,680886,4.5,Accounting principles
+422845,680886,4.5,Accounting principles
+26614526,680886,5.0,Accounting principles
+11050800,680886,5.0,Accounting principles
+32067608,680886,5.0,Accounting principles
+27050964,680886,5.0,Accounting principles
+14281310,680886,4.0,Accounting principles
+30079918,680886,5.0,Accounting principles
+17293082,680886,4.0,Accounting principles
+20217050,680886,4.5,Accounting principles
+21228974,680886,4.0,Accounting principles
+14449132,680886,4.0,Accounting principles
+27309630,680886,5.0,Accounting principles
+20955368,680886,4.5,Accounting principles
+12227380,680886,5.0,Accounting principles
+34681758,680886,4.5,Accounting principles
+13674688,680886,5.0,Accounting principles
+5494786,680886,4.5,Accounting principles
+8964226,680886,3.5,Accounting principles
+11655498,680886,4.5,Accounting principles
+24298250,680886,5.0,Accounting principles
+4232874,680886,4.0,Accounting principles
+30730964,680886,4.0,Accounting principles
+31916192,680886,4.5,Accounting principles
+13236002,680886,4.0,Accounting principles
+27727918,680886,4.5,Accounting principles
+7630714,680886,4.0,Accounting principles
+8516262,680886,4.0,Accounting principles
+20335500,680886,3.5,Accounting principles
+15632506,680886,4.5,Accounting principles
+16362140,680886,5.0,Accounting principles
+18160528,680886,4.0,Accounting principles
+33257808,680886,4.0,Accounting principles
+26639372,680886,4.0,Accounting principles
+21802030,680886,4.0,Accounting principles
+17797224,680886,5.0,Accounting principles
+4294126,680886,3.5,Accounting principles
+570138,680886,3.0,Accounting principles
+18519920,680886,4.5,Accounting principles
+614832,680886,4.0,Accounting principles
+20248264,680886,5.0,Accounting principles
+17517336,680886,4.0,Accounting principles
+26703642,680886,4.5,Accounting principles
+17999980,680886,5.0,Accounting principles
+20546342,680886,5.0,Accounting principles
+10624808,680886,4.0,Accounting principles
+14029412,680886,4.5,Accounting principles
+7115892,680886,4.0,Accounting principles
+7011484,680886,4.5,Accounting principles
+14207470,680886,5.0,Accounting principles
+27506276,680886,4.5,Accounting principles
+26528050,680886,5.0,Accounting principles
+18009296,680886,5.0,Accounting principles
+23309898,680886,5.0,Accounting principles
+1479252,680886,4.0,Accounting principles
+18896382,680886,4.0,Accounting principles
+347284,680886,5.0,Accounting principles
+26160806,680886,4.5,Accounting principles
+11937082,680886,4.5,Accounting principles
+798481,680886,5.0,Accounting principles
+21775486,680886,5.0,Accounting principles
+12203266,680886,5.0,Accounting principles
+21390454,680886,5.0,Accounting principles
+29027202,680886,4.5,Accounting principles
+5720952,680886,5.0,Accounting principles
+18537454,680886,5.0,Accounting principles
+20117344,680886,3.0,Accounting principles
+22679588,680886,5.0,Accounting principles
+15616142,680886,5.0,Accounting principles
+12735626,680886,4.0,Accounting principles
+9281814,680886,5.0,Accounting principles
+21445880,680886,5.0,Accounting principles
+22551598,680886,5.0,Accounting principles
+36266938,680886,5.0,Accounting principles
+21200510,735394,5.0,2017 Pre-National Virtual Instrument Competition
+4345532,735394,4.0,2017 Pre-National Virtual Instrument Competition
+12861436,735394,5.0,2017 Pre-National Virtual Instrument Competition
+22890250,735394,5.0,2017 Pre-National Virtual Instrument Competition
+19397416,735394,4.5,2017 Pre-National Virtual Instrument Competition
+20253912,735394,4.0,2017 Pre-National Virtual Instrument Competition
+1068172,735394,5.0,2017 Pre-National Virtual Instrument Competition
+9690616,735394,5.0,2017 Pre-National Virtual Instrument Competition
+17421196,735394,5.0,2017 Pre-National Virtual Instrument Competition
+3426012,735394,5.0,2017 Pre-National Virtual Instrument Competition
+520276,735394,5.0,2017 Pre-National Virtual Instrument Competition
+8252928,735394,5.0,2017 Pre-National Virtual Instrument Competition
+13291628,735394,4.5,2017 Pre-National Virtual Instrument Competition
+3030506,735394,4.5,2017 Pre-National Virtual Instrument Competition
+13085762,735394,5.0,2017 Pre-National Virtual Instrument Competition
+16126244,735394,5.0,2017 Pre-National Virtual Instrument Competition
+262516,735394,3.5,2017 Pre-National Virtual Instrument Competition
+23766094,735394,4.0,2017 Pre-National Virtual Instrument Competition
+22893234,735394,4.0,2017 Pre-National Virtual Instrument Competition
+17006260,735394,5.0,2017 Pre-National Virtual Instrument Competition
+19513520,697056,5.0,Evidence-based care
+555521,697056,5.0,Evidence-based care
+270323,697056,5.0,Evidence-based care
+3908232,697056,5.0,Evidence-based care
+16766354,697056,5.0,Evidence-based care
+33718476,920114,5.0,Course 001 for testing
+31116796,920114,5.0,Course 001 for testing
+20208326,920114,5.0,Course 001 for testing
+3111302,920114,3.5,Course 001 for testing
+27243976,920114,5.0,Course 001 for testing
+29163876,920114,5.0,Course 001 for testing
+36863252,920114,5.0,Course 001 for testing
+22757280,920114,5.0,Course 001 for testing
+30631412,920114,5.0,Course 001 for testing
+21356872,920114,5.0,Course 001 for testing
+15755742,920114,5.0,Course 001 for testing
+15639944,920114,5.0,Course 001 for testing
+27569442,920114,5.0,Course 001 for testing
+16445616,920114,5.0,Course 001 for testing
+33575546,920114,5.0,Course 001 for testing
+26092988,920114,5.0,Course 001 for testing
+31709534,920114,4.5,Course 001 for testing
+28027298,920114,5.0,Course 001 for testing
+17997070,920114,5.0,Course 001 for testing
+24325320,920114,5.0,Course 001 for testing
+6053926,920114,5.0,Course 001 for testing
+37288302,920114,5.0,Course 001 for testing
+5591862,920114,4.5,Course 001 for testing
+2674592,920114,5.0,Course 001 for testing
+15652500,920114,5.0,Course 001 for testing
+31156076,920114,5.0,Course 001 for testing
+23648238,920114,5.0,Course 001 for testing
+21034884,920114,4.5,Course 001 for testing
+9723596,920114,5.0,Course 001 for testing
+33821834,920114,5.0,Course 001 for testing
+29672812,920114,5.0,Course 001 for testing
+27370448,920114,5.0,Course 001 for testing
+31724572,920114,4.5,Course 001 for testing
+30769332,920114,5.0,Course 001 for testing
+304827,920114,5.0,Course 001 for testing
+17191144,920114,5.0,Course 001 for testing
+17928308,920114,5.0,Course 001 for testing
+1545590,920114,5.0,Course 001 for testing
+1611602,920114,5.0,Course 001 for testing
+20046108,920114,5.0,Course 001 for testing
+26739064,920114,5.0,Course 001 for testing
+21586848,920114,4.5,Course 001 for testing
+22798846,920114,1.5,Course 001 for testing
+18470312,920114,5.0,Course 001 for testing
+3483880,920114,4.0,Course 001 for testing
+22050258,920114,5.0,Course 001 for testing
+27351832,920114,5.0,Course 001 for testing
+19328926,920114,4.5,Course 001 for testing
+915123,920114,5.0,Course 001 for testing
+20730108,920114,5.0,Course 001 for testing
+3440292,920114,5.0,Course 001 for testing
+28190426,920114,5.0,Course 001 for testing
+27865292,920114,3.5,Course 001 for testing
+23222574,920114,5.0,Course 001 for testing
+27358484,920114,4.5,Course 001 for testing
+30380388,920114,4.5,Course 001 for testing
+31949286,920114,5.0,Course 001 for testing
+33941666,920114,2.5,Course 001 for testing
+23563286,920114,5.0,Course 001 for testing
+26751670,920114,4.5,Course 001 for testing
+6492818,920114,3.0,Course 001 for testing
+6625234,920114,5.0,Course 001 for testing
+26734078,920114,5.0,Course 001 for testing
+30873660,920114,5.0,Course 001 for testing
+16241316,920114,5.0,Course 001 for testing
+35320780,920114,5.0,Course 001 for testing
+2959430,920114,4.5,Course 001 for testing
+22550828,920114,4.5,Course 001 for testing
+21436742,920114,4.0,Course 001 for testing
+13791992,920114,4.5,Course 001 for testing
+35323552,920114,4.5,Course 001 for testing
+23971472,920114,3.0,Course 001 for testing
+20503552,920114,5.0,Course 001 for testing
+6246770,920114,5.0,Course 001 for testing
+22193600,920114,4.0,Course 001 for testing
+9920448,920114,5.0,Course 001 for testing
+17704088,920114,5.0,Course 001 for testing
+29693900,920114,5.0,Course 001 for testing
+24359796,920114,5.0,Course 001 for testing
+14685912,920114,5.0,Course 001 for testing
+29360828,920114,4.0,Course 001 for testing
+9605886,920114,2.5,Course 001 for testing
+24008292,920114,3.5,Course 001 for testing
+26554940,920114,5.0,Course 001 for testing
+28985212,920114,4.5,Course 001 for testing
+7115584,920114,5.0,Course 001 for testing
+15721792,920114,5.0,Course 001 for testing
+20572316,920114,5.0,Course 001 for testing
+18439936,920114,5.0,Course 001 for testing
+20807324,920114,4.5,Course 001 for testing
+22956480,920114,5.0,Course 001 for testing
+25232708,920114,4.0,Course 001 for testing
+30275048,920114,3.0,Course 001 for testing
+18830194,920114,3.5,Course 001 for testing
+18717434,920114,5.0,Course 001 for testing
+452062,681364,3.5,Discover the mystery of subconscious psychology.
+754374,681364,5.0,Discover the mystery of subconscious psychology.
+14533880,681364,5.0,Discover the mystery of subconscious psychology.
+5293188,681364,4.5,Discover the mystery of subconscious psychology.
+17979624,681364,5.0,Discover the mystery of subconscious psychology.
+584929,681364,5.0,Discover the mystery of subconscious psychology.
+437257,681364,5.0,Discover the mystery of subconscious psychology.
+16960692,681364,5.0,Discover the mystery of subconscious psychology.
+10316892,681364,5.0,Discover the mystery of subconscious psychology.
+930793,681364,4.5,Discover the mystery of subconscious psychology.
+20208326,756618,5.0,University student mental health talk (spring 2019) - Shenyang Agricultural University
+16459358,756618,4.5,University student mental health talk (spring 2019) - Shenyang Agricultural University
+8469350,756618,5.0,University student mental health talk (spring 2019) - Shenyang Agricultural University
+8653108,756618,4.5,University student mental health talk (spring 2019) - Shenyang Agricultural University
+23996588,756618,4.5,University student mental health talk (spring 2019) - Shenyang Agricultural University
+24182950,756618,5.0,University student mental health talk (spring 2019) - Shenyang Agricultural University
+6344710,756618,5.0,University student mental health talk (spring 2019) - Shenyang Agricultural University
+2656868,756618,2.5,University student mental health talk (spring 2019) - Shenyang Agricultural University
+17345776,756618,5.0,University student mental health talk (spring 2019) - Shenyang Agricultural University
+7821168,756618,5.0,University student mental health talk (spring 2019) - Shenyang Agricultural University
+20208326,763992,5.0,Logistics management
+24401642,763992,4.5,Logistics management
+19388074,763992,5.0,Logistics management
+15528222,763992,5.0,Logistics management
+6551350,763992,5.0,Logistics management
+33344574,763992,3.5,Logistics management
+22030234,697164,4.0,Clinical epidemiology
+27367972,697164,5.0,Clinical epidemiology
+20966830,697164,4.0,Clinical epidemiology
+18639138,697164,5.0,Clinical epidemiology
+29234410,697164,5.0,Clinical epidemiology
+5259012,697164,3.5,Clinical epidemiology
+26689882,697164,5.0,Clinical epidemiology
+14840676,697164,4.0,Clinical epidemiology
+13500794,697164,5.0,Clinical epidemiology
+13754072,697164,4.5,Clinical epidemiology
+24189414,697164,1.0,Clinical epidemiology
+21662894,697164,5.0,Clinical epidemiology
+29161578,697164,5.0,Clinical epidemiology
+12947854,697164,5.0,Clinical epidemiology
+34693602,697164,4.5,Clinical epidemiology
+24093318,697164,4.5,Clinical epidemiology
+6719288,697164,4.0,Clinical epidemiology
+10580014,697164,5.0,Clinical epidemiology
+5910364,681980,5.0,Artistic Taiwan - Recognition of Contemporary Art and Visual Culture in Taiwan
+28221776,681980,4.5,Artistic Taiwan - Recognition of Contemporary Art and Visual Culture in Taiwan
+13635936,681980,5.0,Artistic Taiwan - Recognition of Contemporary Art and Visual Culture in Taiwan
+27025470,681980,5.0,Artistic Taiwan - Recognition of Contemporary Art and Visual Culture in Taiwan
+21165542,681980,5.0,Artistic Taiwan - Recognition of Contemporary Art and Visual Culture in Taiwan
+10899336,681432,5.0,Cream concrete and structure
+6773522,681432,5.0,Cream concrete and structure
+86577,681610,4.0,Micro degree in cloud safety (introduction course)
+204861,681610,4.5,Micro degree in cloud safety (introduction course)
+19121768,681610,5.0,Micro degree in cloud safety (introduction course)
+18544286,681610,4.0,Micro degree in cloud safety (introduction course)
+335175,681610,3.0,Micro degree in cloud safety (introduction course)
+12384084,681610,4.5,Micro degree in cloud safety (introduction course)
+5518738,681610,3.5,Micro degree in cloud safety (introduction course)
+19301424,681610,5.0,Micro degree in cloud safety (introduction course)
+36863252,781494,5.0,By experimenting with circuits.
+22717120,781494,4.5,By experimenting with circuits.
+27440608,781494,5.0,By experimenting with circuits.
+24375070,781494,5.0,By experimenting with circuits.
+904130,682484,5.0,Management communication
+27554596,682484,5.0,Management communication
+21109476,682484,5.0,Management communication
+19130250,682484,5.0,Management communication
+21457284,682484,5.0,Management communication
+22145394,682484,4.5,Management communication
+20743726,682484,3.0,Management communication
+8784840,682484,5.0,Management communication
+26819834,682484,5.0,Management communication
+27693700,682484,2.0,Management communication
+11580716,682484,3.0,Management communication
+29566738,682484,5.0,Management communication
+30960732,682484,5.0,Management communication
+32467108,682484,4.0,Management communication
+8690192,682484,5.0,Management communication
+4607136,682484,3.0,Management communication
+29336620,682484,3.5,Management communication
+13465098,682484,4.0,Management communication
+10143110,682484,2.0,Management communication
+23430534,682484,5.0,Management communication
+18112118,682484,4.0,Management communication
+37252366,682484,3.0,Management communication
+1411650,682484,5.0,Management communication
+4562070,784036,4.5,Industrial ecology
+8190404,784036,5.0,Industrial ecology
+2895150,866770,5.0,Computer program design basics (first course)
+22180810,866770,5.0,Computer program design basics (first course)
+16000698,866770,4.0,Computer program design basics (first course)
+10118040,866770,5.0,Computer program design basics (first course)
+15588196,902888,4.0,Financial science and quantitative analysis - step forward
+16199660,902888,5.0,Financial science and quantitative analysis - step forward
+10893820,902888,4.5,Financial science and quantitative analysis - step forward
+20430792,694156,5.0,Data structure and algorithms
+221875,694156,5.0,Data structure and algorithms
+2606384,694156,5.0,Data structure and algorithms
+637449,694156,3.0,Data structure and algorithms
+20430792,758208,5.0,Language. I heard.
+520276,758208,5.0,Language. I heard.
+10525852,758208,3.5,Language. I heard.
+22164760,854866,5.0,Software engineering
+26068354,854866,4.5,Software engineering
+1926974,854866,4.5,Software engineering
+20170484,854866,4.0,Software engineering
+19215384,854866,3.0,Software engineering
+833273,854866,5.0,Software engineering
+23206280,854866,5.0,Software engineering
+8060430,854866,4.0,Software engineering
+3929492,854866,4.0,Software engineering
+30959810,854866,5.0,Software engineering
+5376870,916828,5.0,R-language data analysis
+24647070,916828,5.0,R-language data analysis
+21109476,916828,5.0,R-language data analysis
+20592022,916828,4.5,R-language data analysis
+17554570,916828,1.0,R-language data analysis
+13687806,916828,5.0,R-language data analysis
+14921776,916828,4.5,R-language data analysis
+6586020,916828,5.0,R-language data analysis
+5780246,916828,0.5,R-language data analysis
+26691282,916828,5.0,R-language data analysis
+30153704,916828,4.5,R-language data analysis
+13252022,916828,5.0,R-language data analysis
+24354760,916828,1.0,R-language data analysis
+19117568,916828,5.0,R-language data analysis
+4764674,916828,4.0,R-language data analysis
+14032078,916828,2.0,R-language data analysis
+24063708,916828,5.0,R-language data analysis
+27554596,697360,5.0,Limited meta-analysis and applications
+2742054,697360,5.0,Limited meta-analysis and applications
+22093182,697360,5.0,Limited meta-analysis and applications
+29967748,697360,5.0,Limited meta-analysis and applications
+24642938,697360,4.0,Limited meta-analysis and applications
+34154830,782574,4.5,Pharmacy (autonomous model)
+15189418,782574,4.5,Pharmacy (autonomous model)
+26608154,782574,5.0,Pharmacy (autonomous model)
+2246874,782574,5.0,Pharmacy (autonomous model)
+14483564,782574,5.0,Pharmacy (autonomous model)
+10374394,782574,5.0,Pharmacy (autonomous model)
+6474594,782574,4.5,Pharmacy (autonomous model)
+20504062,782574,4.0,Pharmacy (autonomous model)
+7138144,782574,5.0,Pharmacy (autonomous model)
+11279220,782574,5.0,Pharmacy (autonomous model)
+7925156,782574,5.0,Pharmacy (autonomous model)
+5255116,782574,4.0,Pharmacy (autonomous model)
+18387946,830568,3.0,Data mining: theory and algorithms (Cinghua authentication)
+7676236,830568,4.0,Data mining: theory and algorithms (Cinghua authentication)
+20943486,830568,5.0,Data mining: theory and algorithms (Cinghua authentication)
+6554640,830568,5.0,Data mining: theory and algorithms (Cinghua authentication)
+575933,830568,4.0,Data mining: theory and algorithms (Cinghua authentication)
+21670574,830568,5.0,Data mining: theory and algorithms (Cinghua authentication)
+21583794,830568,4.5,Data mining: theory and algorithms (Cinghua authentication)
+493674,947752,5.0,Computer principles and applications (simple machine principles and applications)
+22283232,947752,5.0,Computer principles and applications (simple machine principles and applications)
+5079560,697126,5.0,Pharmacy
+642057,697126,5.0,Pharmacy
+21553960,697126,4.0,Pharmacy
+8732570,735226,5.0,Cross-cultural communication
+21101630,735226,5.0,Cross-cultural communication
+28196946,758190,5.0,“Law” in the workplace
+520276,758190,5.0,“Law” in the workplace
+15688500,758190,5.0,“Law” in the workplace
+26797286,758190,5.0,“Law” in the workplace
+21109476,681866,5.0,I heard it in middle Japanese.
+24419544,681866,5.0,I heard it in middle Japanese.
+504472,681866,5.0,I heard it in middle Japanese.
+6220564,681866,5.0,I heard it in middle Japanese.
+16196612,681866,4.0,I heard it in middle Japanese.
+6903760,681866,5.0,I heard it in middle Japanese.
+9740588,681866,5.0,I heard it in middle Japanese.
+14430108,681866,4.0,I heard it in middle Japanese.
+20319986,681866,3.0,I heard it in middle Japanese.
+2767334,681866,5.0,I heard it in middle Japanese.
+22174018,681866,4.5,I heard it in middle Japanese.
+23604250,681866,3.0,I heard it in middle Japanese.
+18965776,681866,5.0,I heard it in middle Japanese.
+9614062,681866,2.5,I heard it in middle Japanese.
+821435,681866,5.0,I heard it in middle Japanese.
+4460132,681866,4.5,I heard it in middle Japanese.
+13930954,681866,5.0,I heard it in middle Japanese.
+587055,681866,5.0,I heard it in middle Japanese.
+9845310,681866,4.5,I heard it in middle Japanese.
+15164790,681866,4.0,I heard it in middle Japanese.
+5243940,948488,5.0,Course on mental health education for students in general higher education
+3518166,948488,4.0,Course on mental health education for students in general higher education
+2851478,948488,5.0,Course on mental health education for students in general higher education
+10193994,948488,5.0,Course on mental health education for students in general higher education
+4719616,948488,4.0,Course on mental health education for students in general higher education
+26576572,948488,5.0,Course on mental health education for students in general higher education
+18519152,948488,5.0,Course on mental health education for students in general higher education
+30357374,948488,5.0,Course on mental health education for students in general higher education
+19190452,948488,2.0,Course on mental health education for students in general higher education
+74708,948488,5.0,Course on mental health education for students in general higher education
+17967186,948488,5.0,Course on mental health education for students in general higher education
+20274942,948488,5.0,Course on mental health education for students in general higher education
+22133106,948488,5.0,Course on mental health education for students in general higher education
+1521550,948488,3.5,Course on mental health education for students in general higher education
+27482924,948488,5.0,Course on mental health education for students in general higher education
+8548594,948488,5.0,Course on mental health education for students in general higher education
+1226128,881436,5.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+3647080,881436,5.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+520276,881436,5.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+8109032,881436,5.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+1416744,881436,4.5,Postgraduate degree dissertation from Qinghua University 2015 (i)
+16466167,881436,3.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+27351000,881436,4.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+26660642,881436,5.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+21167730,881436,5.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+4619628,881436,4.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+172211,881436,4.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+396028,881436,5.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+16502084,881436,5.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+18974824,881436,5.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+16542606,881436,4.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+26566282,881436,5.0,Postgraduate degree dissertation from Qinghua University 2015 (i)
+22490054,1169292,5.0,International Women's Health and Human Rights
+28716332,1169292,5.0,International Women's Health and Human Rights
+4322782,1169292,5.0,International Women's Health and Human Rights
+21166700,707054,4.0,Molecular biology - rationale and technology
+2352664,707054,5.0,Molecular biology - rationale and technology
+34510720,901906,2.0,Situation and policy (2019 Autumn)
+3282798,901906,5.0,Situation and policy (2019 Autumn)
+22308840,901906,3.0,Situation and policy (2019 Autumn)
+27524484,901906,4.0,Situation and policy (2019 Autumn)
+22056586,901906,4.5,Situation and policy (2019 Autumn)
+8575658,901906,5.0,Situation and policy (2019 Autumn)
+34558938,901906,5.0,Situation and policy (2019 Autumn)
+23462040,901906,5.0,Situation and policy (2019 Autumn)
+16567582,901906,5.0,Situation and policy (2019 Autumn)
+22222160,901906,5.0,Situation and policy (2019 Autumn)
+442840,901906,4.0,Situation and policy (2019 Autumn)
+24102934,901906,3.5,Situation and policy (2019 Autumn)
+11626218,901906,5.0,Situation and policy (2019 Autumn)
+13534862,901906,5.0,Situation and policy (2019 Autumn)
+30525146,901906,4.5,Situation and policy (2019 Autumn)
+18205912,901906,5.0,Situation and policy (2019 Autumn)
+9622582,901906,5.0,Situation and policy (2019 Autumn)
+21163812,901906,5.0,Situation and policy (2019 Autumn)
+10621882,901906,5.0,Situation and policy (2019 Autumn)
+29277034,901906,5.0,Situation and policy (2019 Autumn)
+21444020,901906,4.0,Situation and policy (2019 Autumn)
+13150254,901906,5.0,Situation and policy (2019 Autumn)
+23459326,901906,5.0,Situation and policy (2019 Autumn)
+22797888,901906,2.5,Situation and policy (2019 Autumn)
+19305266,901906,5.0,Situation and policy (2019 Autumn)
+26331112,901906,5.0,Situation and policy (2019 Autumn)
+23516228,901906,5.0,Situation and policy (2019 Autumn)
+25969158,901906,4.5,Situation and policy (2019 Autumn)
+33006750,901906,5.0,Situation and policy (2019 Autumn)
+20418550,901906,4.0,Situation and policy (2019 Autumn)
+11906062,697806,3.5,Fiscal policy and tax reform
+12950446,697806,3.5,Fiscal policy and tax reform
+27519444,697806,3.5,Fiscal policy and tax reform
+19293332,697806,5.0,Fiscal policy and tax reform
+17745528,697806,5.0,Fiscal policy and tax reform
+16023654,697806,5.0,Fiscal policy and tax reform
+5092050,697806,5.0,Fiscal policy and tax reform
+15773248,697806,3.0,Fiscal policy and tax reform
+209608,947702,3.5,English Language Contrast and Translation
+28761342,947702,4.0,English Language Contrast and Translation
+15189418,682586,3.0,Visual communication of design thinking and methods
+12108526,682586,5.0,Visual communication of design thinking and methods
+16418044,682586,4.0,Visual communication of design thinking and methods
+10326148,682586,5.0,Visual communication of design thinking and methods
+4382854,682586,5.0,Visual communication of design thinking and methods
+14248748,682586,5.0,Visual communication of design thinking and methods
+21286618,682586,2.5,Visual communication of design thinking and methods
+224965,948092,5.0,Management of commercial banks
+34513578,948092,3.0,Management of commercial banks
+28038932,948092,2.0,Management of commercial banks
+18596408,735284,5.0,Vehicle maintenance operating standards and processes
+17127256,735284,5.0,Vehicle maintenance operating standards and processes
+14971764,735284,5.0,Vehicle maintenance operating standards and processes
+26734236,735284,5.0,Vehicle maintenance operating standards and processes
+12205898,735284,5.0,Vehicle maintenance operating standards and processes
+7733696,735284,5.0,Vehicle maintenance operating standards and processes
+19543430,735284,5.0,Vehicle maintenance operating standards and processes
+26182780,735284,5.0,Vehicle maintenance operating standards and processes
+18103334,735284,5.0,Vehicle maintenance operating standards and processes
+23546956,735284,5.0,Vehicle maintenance operating standards and processes
+31227092,735284,4.5,Vehicle maintenance operating standards and processes
+26419430,735284,4.5,Vehicle maintenance operating standards and processes
+28716332,735284,5.0,Vehicle maintenance operating standards and processes
+11721832,735284,5.0,Vehicle maintenance operating standards and processes
+22068560,735284,5.0,Vehicle maintenance operating standards and processes
+26086404,735284,5.0,Vehicle maintenance operating standards and processes
+22261882,735284,4.5,Vehicle maintenance operating standards and processes
+16920958,696972,5.0,Academic English
+15399336,696972,3.0,Academic English
+751149,696972,5.0,Academic English
+31728822,681692,5.0,5G and artificial intelligence
+23803482,681692,5.0,5G and artificial intelligence
+11506486,681692,5.0,5G and artificial intelligence
+21074534,681692,5.0,5G and artificial intelligence
+19697292,681692,5.0,5G and artificial intelligence
+29658328,681692,3.5,5G and artificial intelligence
+23660334,629514,5.0,"It's a guide to ""Governance."""
+23656718,629514,5.0,"It's a guide to ""Governance."""
+26827860,629514,2.0,"It's a guide to ""Governance."""
+26841340,629514,4.5,"It's a guide to ""Governance."""
+19237726,629514,5.0,"It's a guide to ""Governance."""
+30474722,629514,5.0,"It's a guide to ""Governance."""
+11256082,629514,4.0,"It's a guide to ""Governance."""
+19105534,629514,5.0,"It's a guide to ""Governance."""
+2038086,629514,4.0,"It's a guide to ""Governance."""
+10199174,677184,5.0,Calculation of values for heat transfer and fluid flow
+11975324,677184,5.0,Calculation of values for heat transfer and fluid flow
+14147754,677184,5.0,Calculation of values for heat transfer and fluid flow
+19542758,677184,3.5,Calculation of values for heat transfer and fluid flow
+116607,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+5167416,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+297245,840084,4.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+2758290,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+8332002,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+4528430,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+3727868,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+4356038,840084,4.5,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+13386416,840084,4.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+21261138,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+12348706,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+3140554,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+1105998,840084,1.5,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+6989526,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+26855714,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+22734954,840084,3.5,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+21970976,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+8965103,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+1524622,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+7681230,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+18726316,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+10125274,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+8573188,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+6416428,840084,4.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+3866062,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+1949296,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+18210698,840084,4.5,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+3764138,840084,5.0,"To tell the Chinese story of education, to remind me of the wisdom of Chinese education."
+11764086,680936,1.0,Accurate Guide Channel
+844601,681076,5.0,History of world civilization
+13432366,681076,1.0,History of world civilization
+9528110,681076,5.0,History of world civilization
+28281902,696872,5.0,Microelectronic processes
+14153136,682318,2.0,Microeconomics
+766476,682318,4.5,Microeconomics
+21490432,682318,0.5,Microeconomics
+18669940,682318,3.0,Microeconomics
+12518876,682506,2.5,I'll teach you how to have a healthy baby.
+35123942,682506,4.0,I'll teach you how to have a healthy baby.
+19555778,747696,5.0,Interpretation and hearing
+20715624,747044,5.0,Environmental accounting and management
+36580901,747044,5.0,Environmental accounting and management
+13521648,696656,3.5,Fire and fire science
+24093230,696656,5.0,Fire and fire science
+2437060,948106,5.0,University English Audio-Visual IV
+7329098,948106,2.5,University English Audio-Visual IV
+11428686,948106,5.0,University English Audio-Visual IV
+8690178,682280,5.0,Genetic engineering
+31090906,676686,5.0,Classics and Thoughts - Master Man Qinghua face-to-face
+20657582,854854,4.0,Hydrodynamics
+22331138,808654,4.0,Introduction to computer control
+19405104,682346,5.0,Big Data Algorithm
+24419182,956128,5.0,The cirrhosis of the liver's cirrhosis.

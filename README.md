@@ -20,6 +20,20 @@ This repository contains all the source code and final reports for the final yea
 
 ---
 
+### Group 3
+
+*Project:* [XNFRec: An Generalized Explainable Recommender using Knowledge Graph and Neutrosophic Fuzzy Hypergraph](https://github.com/RSET-CSE-DEPARTMENT/RSET2022-26-S8-Beta/tree/main/Group%203%20-%20XNFRec)
+*Members:*
+
+- Johaan P Varghese(U2203118)
+- Maria Thomas Manavalan (U2203137)
+- John S Kakkassery (U2203120)
+- Glenda Pinhero (U22030100)
+
+*Guide:* Ms. Mehbooba P Shareef
+
+---
+
 ### Group 6
 **Project:** [TITAN: Trash Interception and Termination Autonomous Navigator](https://github.com/GeorgeET15/RSET2022-26-S8-Beta/tree/main/TITAN%3A%20Trash%20Interception%20and%20Termination%20Autonomous%20%20Navigator)
 **Members:**
